@@ -1,0 +1,4 @@
+/node_modules
+mongoose.exe
+package-lock.json
+.gitignore
